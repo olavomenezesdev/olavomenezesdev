@@ -1,4 +1,4 @@
-
+[
 
 <h1 align="center">Olá 👋, eu sou Olavo Menezes</h1>
 
@@ -40,3 +40,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
