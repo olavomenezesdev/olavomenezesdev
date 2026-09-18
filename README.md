@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Olavo Menezes</h1>
 
 <p align="center">
-  💻 Dev por profissão, curioso por natureza.<br>
-  Criando soluções com tecnologia, automação e Inteligência Artificial.
+  💻Explorando código, inteligência artificial e automação para transformar ideias em soluções.<br>
 </p>
 
 <br>
