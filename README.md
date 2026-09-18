@@ -1,43 +1,44 @@
-[
+# Olá, eu sou o Olavo Menezes 👋
 
-<h1 align="center">Olá 👋, eu sou Olavo Menezes</h1>
+---
 
-<p align="center">
-  🤖 Criando soluções com código, automação e inteligência artificial.
-</p>
+## 🧠 Sobre mim
 
-<br>
+Estou construindo projetos com **Inteligência Artificial** e **no-code/low-code**, unindo desenvolvimento, design e produto.
 
-<h2>👨‍💻 Sobre mim</h2>
+- 🔹 Aprendendo Python e IA na prática
+- 🔹 Construindo produtos com Xano e FlutterFlow
+- 🔹 Desenhando interfaces no Figma
+- 🔹 Organizando ideias e tarefas no Trello
 
-<p>
-  🎓 Estudante de <b>Sistemas da Informação</b>.<br>
-  🚀 Sempre construindo e aprendendo alguma coisa nova.<br>
-  💡 Atualmente explorando desenvolvimento, automação e Inteligência Artificial.
-</p>
+---
 
-<br>
+## 🛠️ Tecnologias & Ferramentas
 
-<h2>🚀 Tecnologias</h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![Xano](https://img.shields.io/badge/Xano-2F2E41?style=for-the-badge&logo=databricks&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-2196F3?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<div>
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+---
 
-  https://cdn.simpleicons.org/openai/FFFFFF
+## 🚀 Projeto em destaque
 
-  <img align="center" alt="n8n" height="45" width="45"
-       src="https://cdn.simpleicons.org/n8n/EA4B71">
+### SOS Drive
 
-  <img align="center" alteicons.org/flutter/02569B">
-</div>
+> Plataforma que conecta motoristas a prestadores de serviço de socorro veicular, permitindo localizar ajuda próxima, solicitar atendimento e acompanhar o chamado.
 
-<br>
-<br>
+**Problema resolvido:**
+Motoristas com pane mecânica, pneu furado, bateria descarregada ou falta de combustível têm dificuldade em encontrar rapidamente um serviço de socorro confiável e próximo, sem saber disponibilidade, tempo de chegada ou custo aproximado.
 
-<h2>📫 Contatos://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor/a>
+---
 
-  <a href="mailto:menezesolavo7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+## 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavomenezes/)
+
+---
+
+*💡 Aberto a colaborar em projetos de IA e produtos digitais. Vamos conversar!*
